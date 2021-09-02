@@ -1,0 +1,12 @@
+{
+  "name": "knotcreation",
+  "version": "1.0.0",
+  "description": "A Online Platform for Artists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "HTML Template/sass ./sass/style.scss HTML Template/style.css --watch"
+  },
+  "author": "Md. Nazmur Sakib",
+  "license": "ISC"
+}
